@@ -1,0 +1,14 @@
+[
+
+  {
+    "repository": "android_device_coolpad_mammoth",
+    "target_path": "device/coolpad/mammoth",
+    "branch": "cm-13.0"
+  },
+
+  {
+    "repository": "android_vendor_coolpad_mammoth",
+    "target_path": "vendor/coolpad/mammoth",
+    "branch": "cm-13.0"
+  } 
+]
