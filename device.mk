@@ -30,6 +30,14 @@ PRODUCT_COPY_FILES += \
    $(LOCAL_PATH)/rootdir/etc/init.project.rc:root/init.project.rc \
    $(LOCAL_PATH)/rootdir/etc/init.mt6735.rc:root/init.mt6735.rc \
    $(LOCAL_PATH)/rootdir/etc/init.mt6735.usb.rc:root/init.mt6735.usb.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.aee.rc:root/init.aee.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.common_svc.rc:root/init.common_svc.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.mal.rc:root/init.mal.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.trace.rc:root/init.trace.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.trustonic.rc:root/init.trustonic.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.usb.rc:root/init.usb.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.volte.rc:root/init.volte.rc \
+   $(LOCAL_PATH)/rootdir/etc/init.xlog.rc:root/init.xlog.rc \
    $(LOCAL_PATH)/rootdir/etc/meta_init.modem.rc:root/meta_init.modem.rc \
    $(LOCAL_PATH)/rootdir/etc/meta_init.project.rc:root/meta_init.project.rc \
    $(LOCAL_PATH)/rootdir/etc/meta_init.rc:root/meta_init.rc
