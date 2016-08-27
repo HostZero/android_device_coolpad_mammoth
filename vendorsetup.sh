@@ -1,0 +1,3 @@
+add_lunch_combo cm_mammoth-user
+add_lunch_combo cm_mammoth-userdebug
+add_lunch_combo cm_mammoth-eng
