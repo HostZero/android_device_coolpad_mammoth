@@ -17,6 +17,8 @@ $(call inherit-product, device/coolpad/mammoth/full_mammoth.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
+PRODUCT_BUILD_PROP_OVERRIDES += BUILD_FINGERPRINT=6.0.1/MOB30Z/46f5166537:userdebug/test-keys PRIVATE_BUILD_DESC="mammoth-user 6.0.1 MOB30Z 46f5166537 release-keys"
+
 PRODUCT_NAME := cm_mammoth
 BOARD_VENDOR := coolpad
 PRODUCT_DEVICE := mammoth
